@@ -5,7 +5,7 @@
       "slug": "paycom",
       "code": "999992",
       "logo": "/logos/paycom.svg",
-      "icons": "/icon/paycom.svg"  
+      "icon": "/icon/paycom.svg"  
     },
     {
       "id": 169,
@@ -13,15 +13,15 @@
       "slug": "palmpay",
       "code": "999991",
       "logo": "/logos/palmpay.svg",
-      "icons": "/icon/palmpay.svg"
+      "icon": "/icon/palmpay.svg"
     },
     {
       "id": 67,
       "name": "Kuda Bank",
       "slug": "kuda-bank",
       "code": "50211",
-      "logo": "/logos/kuda-bank.kuda",
-      "icons": "/icon/kuda-bank.svg"
+      "logo": "/logos/kuda-bank.jpg",
+      "icon": "/icon/kuda-bank.svg"
     },
     {
       "id": 18,
@@ -29,7 +29,7 @@
       "slug": "united-bank-for-africa",
       "code": "033",
       "logo": "/logos/united-bank-for-africa.svg",
-      "icons": "/icon/united-bank-for-africa.svg"
+      "icon": "/icon/united-bank-for-africa.svg"
     },
     {
       "id": 1,
@@ -37,7 +37,7 @@
       "slug": "access-bank",
       "code": "044",
       "logo": "/logos/access-bank.svg",
-      "icons": "/icon/access-bank.svg"
+      "icon": "/icon/access-bank.svg"
     },
     {
       "id": 21,
@@ -45,7 +45,7 @@
       "slug": "zenith-bank",
       "code": "057",
       "logo": "/logos/zenith-bank.svg",
-      "icons": "/icon/zenith-bank.svg"
+      "icon": "/icon/zenith-bank.svg"
     },
     {
       "id": 7,
@@ -53,7 +53,7 @@
       "slug": "first-bank-of-nigeria",
       "code": "011",
       "logo": "/logos/first-bank-of-nigeria.svg",
-      "icons": "/icon/first-bank-of-nigeria.svg"
+      "icon": "/icon/first-bank-of-nigeria.svg"
     },
     {
       "id": 688,
@@ -61,7 +61,7 @@
       "slug": "moniepoint-mfb-ng",
       "code": "50515",
       "logo": "/logos/moniepoint-mfb-ng.svg",
-      "icons": "/icon/moniepoint-mfb-ng.svg"
+      "icon": "/icon/moniepoint-mfb-ng.svg"
     },
     {
       "id": 3,
@@ -69,7 +69,7 @@
       "slug": "access-bank-diamond",
       "code": "063",
       "logo": "/logos/access-bank-diamond.svg",
-      "icons": "/icon/access-bank-diamond.svg"
+      "icon": "/icon/access-bank-diamond.svg"
     },
     {
       "id": 27,
@@ -77,7 +77,7 @@
       "slug": "alat-by-wema",
       "code": "035A",
       "logo": "/logos/alat-by-wema.svg",
-      "icons": "/icon/alat-by-wema.svg"
+      "icon": "/icon/alat-by-wema.svg"
     },
     {
       "id": 880,
@@ -85,7 +85,7 @@
       "slug": "bank78-microfinance-bank-ng",
       "code": "11072",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 832,
@@ -93,7 +93,7 @@
       "slug": "bankit-microfinance-bank-ltd-ng",
       "code": "50572",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 697,
@@ -101,7 +101,7 @@
       "slug": "branch",
       "code": "FC40163",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 82,
@@ -109,7 +109,7 @@
       "slug": "carbon",
       "code": "565",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 2,
@@ -117,7 +117,7 @@
       "slug": "citibank-nigeria",
       "code": "023",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 829,
@@ -125,7 +125,7 @@
       "slug": "credit-direct-limited-ng",
       "code": "40119",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 4,
@@ -133,7 +133,7 @@
       "slug": "ecobank-nigeria",
       "code": "050",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 677,
@@ -141,7 +141,7 @@
       "slug": "fairmoney-microfinance-bank-ng",
       "code": "51318",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 6,
@@ -149,7 +149,7 @@
       "slug": "fidelity-bank",
       "code": "070",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 8,
@@ -157,7 +157,7 @@
       "slug": "first-city-monument-bank",
       "code": "214",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 682,
@@ -165,7 +165,7 @@
       "slug": "firsttrust-mortgage-bank-nigeria-ng",
       "code": "413",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 70,
@@ -173,7 +173,7 @@
       "slug": "globus-bank",
       "code": "00103",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 9,
@@ -181,7 +181,7 @@
       "slug": "guaranty-trust-bank",
       "code": "058",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 10,
@@ -189,7 +189,7 @@
       "slug": "heritage-bank",
       "code": "030",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 828,
@@ -197,7 +197,7 @@
       "slug": "ibbu-mfb-ng",
       "code": "51279",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 822,
@@ -205,7 +205,7 @@
       "slug": "infinity-trust-mortgage-bank-ng",
       "code": "070016",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 22,
@@ -213,7 +213,7 @@
       "slug": "jaiz-bank",
       "code": "301",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 11,
@@ -221,7 +221,7 @@
       "slug": "keystone-bank",
       "code": "082",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 810,
@@ -229,7 +229,7 @@
       "slug": "kolomoni-mfb-ng",
       "code": "899",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 178,
@@ -237,7 +237,7 @@
       "slug": "mint-mfb",
       "code": "50304",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 303,
@@ -245,7 +245,7 @@
       "slug": "mtn-momo-psb-ng",
       "code": "120003",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 830,
@@ -253,7 +253,7 @@
       "slug": "novus-mfb-ng",
       "code": "51371",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 699,
@@ -261,7 +261,7 @@
       "slug": "optimus-bank-ltd",
       "code": "107",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 13,
@@ -269,7 +269,7 @@
       "slug": "polaris-bank",
       "code": "076",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 25,
@@ -277,7 +277,7 @@
       "slug": "providus-bank",
       "code": "101",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 750,
@@ -285,7 +285,7 @@
       "slug": "signature-bank-ltd-ng",
       "code": "106",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 14,
@@ -293,7 +293,7 @@
       "slug": "stanbic-ibtc-bank",
       "code": "221",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 15,
@@ -301,7 +301,7 @@
       "slug": "standard-chartered-bank",
       "code": "068",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 16,
@@ -309,7 +309,7 @@
       "slug": "sterling-bank",
       "code": "232",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 23,
@@ -317,7 +317,7 @@
       "slug": "suntrust-bank",
       "code": "100",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 68,
@@ -325,7 +325,7 @@
       "slug": "taj-bank",
       "code": "302",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 73,
@@ -333,7 +333,7 @@
       "slug": "titan-bank",
       "code": "102",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 17,
@@ -341,7 +341,7 @@
       "slug": "union-bank-of-nigeria",
       "code": "032",
       "logo": "/logos/bank78-microfinance-bank-ng.jpg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 19,
@@ -349,7 +349,7 @@
       "slug": "unity-bank",
       "code": "215",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 71,
@@ -357,7 +357,7 @@
       "slug": "vfd",
       "code": "566",
       "logo": "/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/icon/bank78-microfinance-bank-ng.svg"
+      "icon": "/icon/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 20,
@@ -365,6 +365,6 @@
       "slug": "wema-bank",
       "code": "035",
       "logo": "/logos/wema-bank.jpg",
-      "icons": "/icon/wema-bank.svg"
+      "icon": "/icon/wema-bank.svg"
     }
 ]
