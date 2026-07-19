@@ -4,88 +4,88 @@
       "name": "OPay Digital Services Limited (OPay)",
       "slug": "paycom",
       "code": "999992",
-      "logo": "/resource/logos/paycom.svg",
-      "icons": "/resource/resource/icons/paycom.svg"  
+      "logo": "/logos/paycom.svg",
+      "icons": "/icons/paycom.svg"  
     },
     {
       "id": 169,
       "name": "PalmPay",
       "slug": "palmpay",
       "code": "999991",
-      "logo": "/resource/logos/palmpay.svg",
-      "icons": "/resource/icons/palmpay.svg"
+      "logo": "/logos/palmpay.svg",
+      "icons": "/icons/palmpay.svg"
     },
     {
       "id": 67,
       "name": "Kuda Bank",
       "slug": "kuda-bank",
       "code": "50211",
-      "logo": "/resource/logos/kuda-bank.svg",
-      "icons": "/resource/icons/kuda-bank.svg"
+      "logo": "/logos/kuda-bank.svg",
+      "icons": "/icons/kuda-bank.svg"
     },
     {
       "id": 18,
       "name": "United Bank For Africa",
       "slug": "united-bank-for-africa",
       "code": "033",
-      "logo": "/resource/logos/united-bank-for-africa.svg",
-      "icons": "/resource/icons/united-bank-for-africa.svg"
+      "logo": "/logos/united-bank-for-africa.svg",
+      "icons": "/icons/united-bank-for-africa.svg"
     },
     {
       "id": 1,
       "name": "Access Bank",
       "slug": "access-bank",
       "code": "044",
-      "logo": "/resource/logos/access-bank.svg",
-      "icons": "/resource/icons/access-bank.svg"
+      "logo": "/logos/access-bank.svg",
+      "icons": "/icons/access-bank.svg"
     },
     {
       "id": 21,
       "name": "Zenith Bank",
       "slug": "zenith-bank",
       "code": "057",
-      "logo": "/resource/logos/zenith-bank.svg",
-      "icons": "/resource/icons/zenith-bank.svg"
+      "logo": "/logos/zenith-bank.svg",
+      "icons": "/icons/zenith-bank.svg"
     },
     {
       "id": 7,
       "name": "First Bank of Nigeria",
       "slug": "first-bank-of-nigeria",
       "code": "011",
-      "logo": "/resource/logos/first-bank-of-nigeria.svg",
-      "icons": "/resource/icons/first-bank-of-nigeria.svg"
+      "logo": "/logos/first-bank-of-nigeria.svg",
+      "icons": "/icons/first-bank-of-nigeria.svg"
     },
     {
       "id": 688,
       "name": "Moniepoint MFB",
       "slug": "moniepoint-mfb-ng",
       "code": "50515",
-      "logo": "/resource/logos/moniepoint-mfb-ng.svg",
-      "icons": "/resource/icons/moniepoint-mfb-ng.svg"
+      "logo": "/logos/moniepoint-mfb-ng.svg",
+      "icons": "/icons/moniepoint-mfb-ng.svg"
     },
     {
       "id": 3,
       "name": "Access Bank (Diamond)",
       "slug": "access-bank-diamond",
       "code": "063",
-      "logo": "/resource/logos/access-bank-diamond.svg",
-      "icons": "/resource/icons/access-bank-diamond.svg"
+      "logo": "/logos/access-bank-diamond.svg",
+      "icons": "/icons/access-bank-diamond.svg"
     },
     {
       "id": 27,
       "name": "ALAT by WEMA",
       "slug": "alat-by-wema",
       "code": "035A",
-      "logo": "/resource/logos/alat-by-wema.svg",
-      "icons": "/resource/icons/alat-by-wema.svg"
+      "logo": "/logos/alat-by-wema.svg",
+      "icons": "/icons/alat-by-wema.svg"
     },
     {
       "id": 880,
       "name": "Bank78 Microfinance Bank",
       "slug": "bank78-microfinance-bank-ng",
       "code": "11072",
-      "logo": "/resource/logos/bank78-microfinance-bank-ng.svg",
-      "icons": "/resource/icons/bank78-microfinance-bank-ng.svg"
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 832,
@@ -296,7 +296,7 @@
       "name": "Wema Bank",
       "slug": "wema-bank",
       "code": "035",
-      "logo": "/resource/logos/wema-bank.svg",
-      "icons": "/resource/icons/wema-bank.svg"
+      "logo": "/logos/wema-bank.svg",
+      "icons": "/icons/wema-bank.svg"
     }
 ]
