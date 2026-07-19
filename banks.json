@@ -91,205 +91,273 @@
       "id": 832,
       "name": "BANKIT MICROFINANCE BANK LTD",
       "slug": "bankit-microfinance-bank-ltd-ng",
-      "code": "50572"
+      "code": "50572",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 697,
       "name": "Branch International Finance Company Limited",
       "slug": "branch",
-      "code": "FC40163"
+      "code": "FC40163",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 82,
       "name": "Carbon",
       "slug": "carbon",
-      "code": "565"
+      "code": "565",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 2,
       "name": "Citibank Nigeria",
       "slug": "citibank-nigeria",
-      "code": "023"
+      "code": "023",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 829,
       "name": "Credit Direct Limited",
       "slug": "credit-direct-limited-ng",
-      "code": "40119"
+      "code": "40119",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 4,
       "name": "Ecobank Nigeria",
       "slug": "ecobank-nigeria",
-      "code": "050"
+      "code": "050",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 677,
       "name": "Fairmoney Microfinance Bank",
       "slug": "fairmoney-microfinance-bank-ng",
-      "code": "51318"
+      "code": "51318",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 6,
       "name": "Fidelity Bank",
       "slug": "fidelity-bank",
-      "code": "070"
+      "code": "070",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 8,
       "name": "First City Monument Bank",
       "slug": "first-city-monument-bank",
-      "code": "214"
+      "code": "214",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 682,
       "name": "FirstTrust Mortgage Bank Nigeria",
       "slug": "firsttrust-mortgage-bank-nigeria-ng",
-      "code": "413"
+      "code": "413",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 70,
       "name": "Globus Bank",
       "slug": "globus-bank",
-      "code": "00103"
+      "code": "00103",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 9,
       "name": "Guaranty Trust Bank",
       "slug": "guaranty-trust-bank",
-      "code": "058"
+      "code": "058",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 10,
       "name": "Heritage Bank",
       "slug": "heritage-bank",
-      "code": "030"
+      "code": "030",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 828,
       "name": "IBBU MFB",
       "slug": "ibbu-mfb-ng",
-      "code": "51279"
+      "code": "51279",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 822,
       "name": "Infinity trust  Mortgage Bank",
       "slug": "infinity-trust-mortgage-bank-ng",
-      "code": "070016"
+      "code": "070016",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 22,
       "name": "Jaiz Bank",
       "slug": "jaiz-bank",
-      "code": "301"
+      "code": "301",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 11,
       "name": "Keystone Bank",
       "slug": "keystone-bank",
-      "code": "082"
+      "code": "082",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 810,
       "name": "Kolomoni MFB",
       "slug": "kolomoni-mfb-ng",
-      "code": "899"
+      "code": "899",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 178,
       "name": "Mint MFB",
       "slug": "mint-mfb",
-      "code": "50304"
+      "code": "50304",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 303,
       "name": "MTN Momo PSB",
       "slug": "mtn-momo-psb-ng",
-      "code": "120003"
+      "code": "120003",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 830,
       "name": "Novus MFB",
       "slug": "novus-mfb-ng",
-      "code": "51371"
+      "code": "51371",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 699,
       "name": "Optimus Bank Limited",
       "slug": "optimus-bank-ltd",
-      "code": "107"
+      "code": "107",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 13,
       "name": "Polaris Bank",
       "slug": "polaris-bank",
-      "code": "076"
+      "code": "076",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 25,
       "name": "Providus Bank",
       "slug": "providus-bank",
-      "code": "101"
+      "code": "101",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 750,
       "name": "Signature Bank Ltd",
       "slug": "signature-bank-ltd-ng",
-      "code": "106"
+      "code": "106",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 14,
       "name": "Stanbic IBTC Bank",
       "slug": "stanbic-ibtc-bank",
-      "code": "221"
+      "code": "221",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 15,
       "name": "Standard Chartered Bank",
       "slug": "standard-chartered-bank",
-      "code": "068"
+      "code": "068",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 16,
       "name": "Sterling Bank",
       "slug": "sterling-bank",
-      "code": "232"
+      "code": "232",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 23,
       "name": "Suntrust Bank",
       "slug": "suntrust-bank",
-      "code": "100"
+      "code": "100",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 68,
       "name": "TAJ Bank",
       "slug": "taj-bank",
-      "code": "302"
+      "code": "302",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 73,
       "name": "Titan Bank",
       "slug": "titan-bank",
-      "code": "102"
+      "code": "102",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 17,
       "name": "Union Bank of Nigeria",
       "slug": "union-bank-of-nigeria",
-      "code": "032"
+      "code": "032",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 19,
       "name": "Unity Bank",
       "slug": "unity-bank",
-      "code": "215"
+      "code": "215",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 71,
       "name": "VFD Microfinance Bank Limited",
       "slug": "vfd",
-      "code": "566"
+      "code": "566",
+      "logo": "/logos/bank78-microfinance-bank-ng.svg",
+      "icons": "/icons/bank78-microfinance-bank-ng.svg"
     },
     {
       "id": 20,
